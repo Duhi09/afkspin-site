@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://afkspin-site.vercel.app/sitemap.xml
+Sitemap: https://afkspin-site-zeta.vercel.app/sitemap.xml
